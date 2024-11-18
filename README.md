@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Jimish khokhar</h1>
-<h3 align="center">A passionate Web Developer from India</h3>
+<h3 align="center">Passionate about tackling challenging projects and constantly learning new skills.</h3>
 
 
 
 
 - 🔭 I’m currently working on [Bull's EYE Trading](https://github.com/JimishKhokhar/BULLS_EYE_TRADING-Frontend)
 
-- 👨‍💻 All of my projects are available at [https://github.com/JimishKhokhar](https://github.com/JimishKhokhar)
-
 - 💬 Ask me about **React, Node JS, Express, MongoDB**
 
 - 📫 How to reach me **jimishkhokhar811@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1TCVi6zkzkjdNNnaOyO-LPQ4y-F58RTWE/view?usp=drive_link](https://drive.google.com/file/d/1TCVi6zkzkjdNNnaOyO-LPQ4y-F58RTWE/view?usp=drive_link)
+- 📄 Learn more about my skills and experience in my [Resume](https://drive.google.com/file/d/10LykBPPdrSszSfwAiJc4wP1LFZAyHr-C/view?usp=drive_link)
 
 - ⚡ Fun fact **I think I think Much**
 
