@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jimishkhokhar&label=Profile%20views&color=0e75b6&style=flat" alt="jimishkhokhar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jimishkhokhar" alt="jimishkhokhar" /></a> </p>
 
 - 🔭 I’m currently working on [Bull's EYE Trading](https://github.com/JimishKhokhar/BULLS_EYE_TRADING-Frontend)
 
